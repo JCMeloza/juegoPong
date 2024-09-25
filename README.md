@@ -21,7 +21,7 @@ Sigue estos pasos para ejecutar el juego en tu máquina local:
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/jcmeloza/pong-en-python.git
+    git clone https://github.com/JCMeloza/pong-en-python.git
     cd pong-en-python
     ```
 
